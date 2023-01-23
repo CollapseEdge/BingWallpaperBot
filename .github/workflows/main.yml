@@ -5,7 +5,7 @@ on:
     branches: 
       - main
   schedule:
-      - cron: '0 14 * * *'
+      - cron: '5 16 * * *'
 jobs:
   BingWallpaperBot:
     runs-on: ubuntu-latest
