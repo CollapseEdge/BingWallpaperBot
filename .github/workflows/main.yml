@@ -26,6 +26,7 @@ jobs:
          git config --local user.name "CollapseEdge"
          git add .
          git commit -m "update today's wallpaper"
+         git pull
       - name: Push changes
         uses:  ad-m/github-push-action@master
         with:
