@@ -19,7 +19,7 @@ jobs:
       - name: 'Install requirements'
         run: pip install -r ./code/requirements.txt
       - name: 'Working'
-        run: bash ./main.sh
+        run: bash ./code/main.sh
       - name: Commit files
         run: |
          git config --local user.email "collapse_edge@outlook.com"
