@@ -22,7 +22,7 @@ jobs:
         run: bash ./code/main.sh
       - name: Commit files
         run: |
-         git config --local user.email "collapse_edge@outlook.com"
+         git config --local user.email "123354572+CollapseEdge@users.noreply.github.com"
          git config --local user.name "CollapseEdge"
          git pull
          git add ./code/data.json
