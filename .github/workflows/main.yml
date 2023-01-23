@@ -24,9 +24,9 @@ jobs:
         run: |
          git config --local user.email "collapse_edge@outlook.com"
          git config --local user.name "CollapseEdge"
-         git add .
-         git commit -m "update today's wallpaper"
          git pull
+         git add ./code/data.json
+         git commit -m "update today's wallpaper"
       - name: Push changes
         uses:  ad-m/github-push-action@master
         with:
