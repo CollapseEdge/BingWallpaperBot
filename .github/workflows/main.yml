@@ -22,8 +22,8 @@ jobs:
         run: bash ./main.sh
       - name: Commit files
         run: |
-         git config --local user.email "your_github_email@126.com"
-         git config --local user.name "your_github_name"
+         git config --local user.email "collapse_edge@outlook.com"
+         git config --local user.name "CollapseEdge"
          git add .
          git commit -m "update today's wallpaper"
       - name: Push changes
