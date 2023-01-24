@@ -23,12 +23,6 @@
 > - 图片也储存在bing，稳定快速
 
 ----
-### 开发指南：
-> 本项目仅提供微软bing壁纸的地址<br>
-> 若有开发意愿，可以查看知乎上的这篇文章[Click Me](https://zhuanlan.zhihu.com/p/347518808)
-> 将读取txt改为json文件<br>
-作者自建：http://gsdrsq.free1.asia   (不保证一直可用)
-----
 
 代办事项：
 
