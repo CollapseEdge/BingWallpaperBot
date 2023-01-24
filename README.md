@@ -1,12 +1,9 @@
 # BingWallpaperBot
 
-本仓库每天会从bing爬取壁纸，并储存在data.json中<br>
-暂行方案
-> 访问`http://gsdrsq.free1.asia`进行使用
+本仓库每天会从bing爬取壁纸，并将壁纸的url储存在data.json中<br>
 
 > 🔨 `Bing 壁纸仓库`上阵啦 😄
 
-<small>tips:在url前加`bing.com`就可以使用了</small>
 
 ----
 
@@ -18,7 +15,7 @@
 
 ### Final_Target:
 
-> 本项目的目标是打造一款图片质量可靠，且稳定的随机图片api
+> 本项目的目标是打造一款图片质量可靠，且稳定的微软bing壁纸的储存仓库
 >
 > 优点：
 >
@@ -26,12 +23,15 @@
 > - 图片也储存在bing，稳定快速
 
 ----
+### 开发指南：
+> 本项目仅提供微软bing壁纸的地址<br>
+> 若有开发意愿，可以查看知乎上的这篇文章[Click Me](https://zhuanlan.zhihu.com/p/347518808)
+
+----
 
 代办事项：
 
 - [x] 完成每日壁纸的爬取
-- [x] 使用bootstrap构建前端页面
-- [x] 开发随机图床api接口
 - [ ] 做大做强，再创辉煌
 
 <font color=yellow>如果您喜欢本项目，就留下一个免费的star以作鼓励</font>
