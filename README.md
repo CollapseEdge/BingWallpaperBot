@@ -1,6 +1,7 @@
 # BingWallpaperBot
 
 本仓库每天会从bing爬取壁纸，并储存在data.json中
+访问`http://gsdrsq.free1.asia`进行使用
 
 > 🔨 `Bing 壁纸仓库`上阵啦 😄
 
@@ -28,8 +29,8 @@
 代办事项：
 
 - [x] 完成每日壁纸的爬取
-- [ ] 使用bootstrap构建前端页面
-- [ ] 开发随机图床api接口
+- [x] 使用bootstrap构建前端页面
+- [x] 开发随机图床api接口
 - [ ] 做大做强，再创辉煌
 
 <font color=yellow>如果您喜欢本项目，就留下一个免费的star以作鼓励</font>
