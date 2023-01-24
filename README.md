@@ -1,7 +1,8 @@
 # BingWallpaperBot
 
-本仓库每天会从bing爬取壁纸，并储存在data.json中
-访问`http://gsdrsq.free1.asia`进行使用
+本仓库每天会从bing爬取壁纸，并储存在data.json中<br>
+暂行方案
+> 访问`http://gsdrsq.free1.asia`进行使用
 
 > 🔨 `Bing 壁纸仓库`上阵啦 😄
 
