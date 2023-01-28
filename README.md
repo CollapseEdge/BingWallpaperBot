@@ -1,6 +1,7 @@
 # BingWallpaperBot
 
 本仓库每天会从bing爬取壁纸，并将壁纸的url储存在data.json中<br>
+调用url`https://raw.githubusercontent.com/CollapseEdge/BingWallpaperBot/main/code/data.json`
 
 > 🔨 `Bing 壁纸仓库`上阵啦 😄
 
