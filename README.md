@@ -6,6 +6,7 @@
 https://raw.githubusercontent.com/CollapseEdge/BingWallpaperBot/main/code/data.json
 ````
 TIPS:如需补全链接，请在url前加上`www.bing.com`
+<br>例如: `www.bing.com/th?id=OHR.SunriseMoai_ZH-CN7413178404_1920x1080.jpg&amp`
 
 > 🔨 `Bing 壁纸仓库`上阵啦 😄
 
