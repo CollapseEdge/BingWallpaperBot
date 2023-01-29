@@ -5,7 +5,7 @@
 ```
 https://raw.githubusercontent.com/CollapseEdge/BingWallpaperBot/main/code/data.json
 ````
-
+TIPS:如需补全链接，请在url前加上`www.bing.com`
 
 > 🔨 `Bing 壁纸仓库`上阵啦 😄
 
