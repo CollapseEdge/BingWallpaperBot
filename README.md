@@ -4,7 +4,7 @@
 使用本项目可以通过：
 ```
 https://raw.githubusercontent.com/CollapseEdge/BingWallpaperBot/main/code/data.json
-https://cdn.statically.io/gh/CollapseEdge/BingWallpaperBot@main/code/data.json #CDN加速版
+https://cdn.statically.io/gh/CollapseEdge/BingWallpaperBot@main/code/data.json #CDN加速版,如果网络环境不好，就使用此链接
 ````
 TIPS:如需补全链接，请在url前加上`www.bing.com`
 <br>例如: `www.bing.com/th?id=OHR.SunriseMoai_ZH-CN7413178404_1920x1080.jpg&amp`
