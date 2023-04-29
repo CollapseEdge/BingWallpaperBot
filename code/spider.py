@@ -22,14 +22,14 @@ def get_pic():
     
 
 
-with open('data.json',"r",encoding='utf-8')as file:
+with open('./code/data.json',"r",encoding='utf-8')as file:
     #old_data = file.read()
     old_data = json.load(file)
     old_data['data_list'].append(get_pic())
     new_data = old_data
     file.close()
 
-with open('data.json','w')as f:
+with open('./code/data.json','w')as f:
     f.write(json.dumps(new_data,ensure_ascii=False,indent=4))
     f.close()
 print('success')
