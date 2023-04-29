@@ -1,7 +1,5 @@
 # BingWallpaperBot
 
-##
-attention：本项目于2023/3/12出现错误，现正在排查，停止运行
 ---
 本仓库每天会从bing爬取壁纸，并将壁纸的url储存在data.json中<br>
 使用本项目可以通过：
