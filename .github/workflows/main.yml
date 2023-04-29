@@ -1,12 +1,12 @@
 name: 'GitHub Actions BingWallpaper'
 
 on:
-  #push:
-    #branches: 
-      #- main
-  #schedule:
-    # * is a special character in YAML so you have to quote this string
-    # - cron:  '0 9 * * *'
+  push:
+    branches: 
+      - main
+  schedule:
+     * is a special character in YAML so you have to quote this string
+     - cron:  '0 9 * * *'
 jobs:
   BingWallpaperBot:
     runs-on: ubuntu-latest
