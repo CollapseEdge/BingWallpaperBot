@@ -317,7 +317,7 @@
         },
         {
             "date": "2023-07-01",
-            "name": "Ready for the Grand DÃ©part?",
+            "name": "Ready for the Grand D¨¦part?",
             "url": "/th?id=OHR.PelotonPont_EN-US1487303209_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
         },
         {
@@ -427,7 +427,7 @@
         },
         {
             "date": "2023-07-23",
-            "name": "Hello, is it 'tea' youâ€™re looking for?",
+            "name": "Hello, is it 'tea' you¡¯re looking for?",
             "url": "/th?id=OHR.TeaEstate_EN-US1720005197_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
         },
         {
@@ -532,7 +532,7 @@
         },
         {
             "date": "2023-08-13",
-            "name": "Look up, incomingâ€¦",
+            "name": "Look up, incoming¡­",
             "url": "/th?id=OHR.PerseidsOregon_EN-US9307597393_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
         },
         {
@@ -1659,6 +1659,11 @@
             "date": "2024-03-26",
             "name": "A tidal tango",
             "url": "/th?id=OHR.HangRaiVietnam_EN-US2418713642_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
+        },
+        {
+            "date": "2024-03-26",
+            "name": "³±Ï«Ì½¸ê",
+            "url": "/th?id=OHR.HangRaiVietnam_ZH-CN1601428109_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp"
         }
     ]
 }
