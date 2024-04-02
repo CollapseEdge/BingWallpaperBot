@@ -38,3 +38,5 @@ TIPS:如需补全链接，请在url前加上`www.bing.com`
 - [ ] 做大做强，再创辉煌
 
 <font color=yellow>如果您喜欢本项目，就留下一个免费的star以作鼓励</font>
+
+<font color=red>2024年4月2号起，暂时关闭自动爬取，action出现了一点bug</font>
